@@ -12,12 +12,11 @@ import time
 import nltk
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn import metrics
-import Model
+import NLP.Model as Model
 import jieba
 from sklearn.model_selection import train_test_split
 
-import WordToVec
-
+import NLP.WordToVec as WordToVec
 
 positive_list = []
 positive_label = []
