@@ -113,3 +113,8 @@ model = Model(model_input, model_output)
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 model.fit(x_train, y_train, batch_size=80, epochs=20,
           validation_data=(x_test, y_test), verbose=1)
+
+loss,acc = model.evaluate(x_test,y_test,batch_size=80)
+
+print("Test Score : ",loss)
+print("Test accuracy : ",acc)

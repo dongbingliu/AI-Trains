@@ -59,8 +59,8 @@ def load_data_rgb(dirPath, img_rows, img_cols):
 
 # 获取菜品所有数据集
 def getFoodDatas():
-    x_train, y_train = load_data_rgb('AiTrainDatas/foods/train', img_rows, img_cols)
-    x_test, y_test = load_data_rgb('AiTrainDatas/foods/test', img_rows, img_cols)
+    x_train, y_train = load_data_rgb('../AiTrainDatas/foods/train', img_rows, img_cols)
+    x_test, y_test = load_data_rgb('../AiTrainDatas/foods/test', img_rows, img_cols)
     x_train = x_train.reshape(-1, 50 * 50 * 3)
     x_test = x_test.reshape(-1, 50 * 50 * 3)
     return x_train, y_train, x_test, y_test
@@ -69,7 +69,7 @@ def getFoodDatas():
 # 获取猫狗所有数据集
 def getAnimalsDatas():
     from sklearn.model_selection import train_test_split
-    x_datas, y_datas = load_data_rgb("AiTrainDatas/animals", img_rows, img_cols)
+    x_datas, y_datas = load_data_rgb("../AiTrainDatas/animals", img_rows, img_cols)
     x_train, x_test, y_train, y_test = train_test_split(x_datas, y_datas, test_size=0.25, random_state=None)
     x_train = x_train.reshape(-1, 50 * 50 * 3)
     x_test = x_test.reshape(-1, 50 * 50 * 3)
@@ -79,7 +79,7 @@ def getAnimalsDatas():
 # 获取花卉所有数据集
 def getFlowerDatas():
     from sklearn.model_selection import train_test_split
-    x_datas, y_datas = load_data_rgb("AiTrainDatas/flower_photos", img_rows, img_cols)
+    x_datas, y_datas = load_data_rgb("../AiTrainDatas/flower_photos", img_rows, img_cols)
     x_train, x_test, y_train, y_test = train_test_split(x_datas, y_datas,
                                                         test_size=0.2,
                                                         random_state=None)
@@ -91,7 +91,7 @@ def getFlowerDatas():
 # 获取大规模物体所有数据集
 def getMulObjectDatas():
     from sklearn.model_selection import train_test_split
-    x_datas, y_datas = load_data_rgb("AiTrainDatas/MulObjects", img_rows, img_cols)
+    x_datas, y_datas = load_data_rgb("../AiTrainDatas/MulObjects", img_rows, img_cols)
     x_train, x_test, y_train, y_test = train_test_split(x_datas, y_datas, test_size=0.25, random_state=None)
     x_train = x_train.reshape(-1, 50 * 50 * 3)
     x_test = x_test.reshape(-1, 50 * 50 * 3)
