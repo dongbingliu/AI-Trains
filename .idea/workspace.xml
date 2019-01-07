@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9570c6bb-bc7e-495a-b9f9-66c2047f3c62" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/.idea/Keras-Train.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/ReadMe.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/imdb_lstm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/mnist_cnn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/mnist_mlp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keras-Train/reuters_mlp.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MachineLearning/DatasUtils.py" afterPath="$PROJECT_DIR$/MachineLearning/DatasUtils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NLP/TextCNN.py" afterPath="$PROJECT_DIR$/NLP/TextCNN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NLP/RNNTestPoetry.py" afterPath="$PROJECT_DIR$/NLP/RNNTestPoetry.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,74 +25,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EmotionClassification.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NLP/EmotionClassification.py">
+      <file leaf-file-name="cnn_food_recognization.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2208">
-              <caret line="92" column="31" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="31" />
+            <state relative-caret-position="1008">
+              <caret line="43" column="62" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="62" />
               <folding>
-                <element signature="e#133#151#0" expanded="true" />
+                <element signature="e#257#294#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextCNN.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NLP/TextCNN.py">
+      <file leaf-file-name="lenet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/lenet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="116" column="21" lean-forward="false" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#122#157#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="training.py" pinned="false" current-in-tab="false">
-        <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/keras/engine/training.py">
+      <file leaf-file-name="predict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-77">
-              <caret line="824" column="8" lean-forward="false" selection-start-line="824" selection-start-column="8" selection-end-line="824" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="-382">
+              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="e#122#172#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imdb_lstm.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NLP/sample/imdb_lstm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlotTrainUtils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Utils/PlotTrainUtils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reuters_mlp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NLP/sample/reuters_mlp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AiTrainDatas/ReadMe.md">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ObjectDetection/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <first_editor relative-caret-position="96">
+                <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -92,26 +76,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatasUtils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/DatasUtils.py">
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-636">
-              <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
-              <folding>
-                <element signature="e#192#201#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2160">
+              <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MLImageClassification.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/MLImageClassification.py">
+      <file leaf-file-name="training.py" pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/keras/engine/training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-              <folding>
-                <element signature="e#46#56#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30000">
+              <caret line="1277" column="8" lean-forward="false" selection-start-line="1277" selection-start-column="8" selection-end-line="1277" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,8 +99,35 @@
       <file leaf-file-name="Model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/Model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="240">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paths.py" pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/imutils/paths.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plot.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/plot.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image.py" pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/keras/preprocessing/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9696">
+              <caret line="412" column="8" lean-forward="false" selection-start-line="412" selection-start-column="8" selection-end-line="412" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -155,13 +162,23 @@
         <option value="$PROJECT_DIR$/AiTrainDatas/ReadMe.md" />
         <option value="$PROJECT_DIR$/MachineLearning/main.py" />
         <option value="$PROJECT_DIR$/MachineLearning/MLImageClassification.py" />
-        <option value="$PROJECT_DIR$/MachineLearning/Model.py" />
         <option value="$PROJECT_DIR$/MachineLearning/DatasUtils.py" />
         <option value="$PROJECT_DIR$/NLP/EmotionClassification.py" />
         <option value="$PROJECT_DIR$/Books/8.1-text-generation-with-lstm.ipynb" />
         <option value="$PROJECT_DIR$/NLP/TextCNN.py" />
         <option value="$PROJECT_DIR$/Utils/PlotTrainUtils.py" />
         <option value="$PROJECT_DIR$/NLP/sample/reuters_mlp.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/TransferLearning/mnist_transfer_cnn.py" />
+        <option value="$PROJECT_DIR$/Python/Numpy.py" />
+        <option value="$PROJECT_DIR$/NLP/RNNTestPoetry.py" />
+        <option value="$PROJECT_DIR$/Python/OpenCV.py" />
+        <option value="$PROJECT_DIR$/Keras-Train/keras_trafic_sign_reco/train.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Model.py" />
+        <option value="$PROJECT_DIR$/KerasTrain/ImageDataGenerator.py" />
+        <option value="$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py" />
+        <option value="$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/train.py" />
+        <option value="$PROJECT_DIR$/ObjectDetection/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -188,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -200,39 +216,35 @@
             <path>
               <item name="AI-Trains" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI-Trains" type="462c0819:PsiDirectoryNode" />
-              <item name="AiTrainDatas" type="462c0819:PsiDirectoryNode" />
+              <item name="KerasTrain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AI-Trains" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI-Trains" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AI-Trains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI-Trains" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AI-Trains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI-Trains" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoAlgorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/NLP/sample" />
-      <recent name="$PROJECT_DIR$/Books" />
-      <recent name="$PROJECT_DIR$/MachineLearning" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AiTrainDatas/181230trafic" />
+      <recent name="$PROJECT_DIR$/AiTrainDatas/newFoods/train" />
       <recent name="$PROJECT_DIR$/NLP" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/NLP" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ObjectDetection" />
+      <recent name="$PROJECT_DIR$/VideoAlgorithms" />
+      <recent name="$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco" />
+      <recent name="$PROJECT_DIR$/KerasTrain" />
+      <recent name="$PROJECT_DIR$/Keras-Train" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reuters_mlp">
+  <component name="RunManager" selected="Python.predict">
     <configuration name="AI-Trains" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,36 +276,53 @@
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
     </configuration>
-    <configuration name="MLImageClassification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ImageDataGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KerasTrain" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AI-Trains" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/MLImageClassification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KerasTrain/ImageDataGenerator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="TextCNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OpenCV" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AI-Trains" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/TextCNN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/OpenCV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="cnn_food_recognization.py" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/anaconda3/envs/tensorflow/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KerasTrain" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI-Trains" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,46 +334,66 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP/sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KerasTrain" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AI-Trains" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/sample/imdb_lstm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KerasTrain/imdb_lstm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="reuters_mlp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP/sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AI-Trains" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/sample/reuters_mlp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/predict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MLImageClassification" />
-      <item index="1" class="java.lang.String" itemvalue="Jupyter Notebook.AI-Trains" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TextCNN" />
-      <item index="3" class="java.lang.String" itemvalue="Python.reuters_mlp" />
-      <item index="4" class="java.lang.String" itemvalue="Python.imdb_lstm" />
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI-Trains" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.AI-Trains" />
+      <item index="1" class="java.lang.String" itemvalue="Python.cnn_food_recognization.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.OpenCV" />
+      <item index="3" class="java.lang.String" itemvalue="Python.imdb_lstm" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ImageDataGenerator" />
+      <item index="5" class="java.lang.String" itemvalue="Python.train" />
+      <item index="6" class="java.lang.String" itemvalue="Python.predict" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.reuters_mlp" />
-        <item index="1" class="java.lang.String" itemvalue="Python.imdb_lstm" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TextCNN" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MLImageClassification" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.predict" />
+        <item index="1" class="java.lang.String" itemvalue="Python.train" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ImageDataGenerator" />
+        <item index="3" class="java.lang.String" itemvalue="Python.imdb_lstm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.OpenCV" />
       </list>
     </recent_temporary>
   </component>
@@ -361,20 +410,59 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_cnn_food_recognization_py - 2019.01.05 at 15h 39m 45s.xml">
+      <configuration name="Nosetests in cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_cnn_food_recognization_py - 2019.01.05 at 15h 40m 50s.xml">
+      <configuration name="Nosetests in cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_cnn_food_recognization_py - 2019.01.05 at 15h 43m 08s.xml">
+      <configuration name="Nosetests in cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_cnn_food_recognization_py - 2019.01.05 at 15h 44m 40s.xml">
+      <configuration name="Nosetests in cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_cnn_food_recognization_py - 2019.01.05 at 15h 58m 04s.xml">
+      <configuration name="Nosetests in cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="cnn_food_recognization_py - 2019.01.05 at 15h 59m 43s.xml">
+      <configuration name="cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="cnn_food_recognization_py - 2019.01.05 at 16h 07m 15s.xml">
+      <configuration name="cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="cnn_food_recognization_py - 2019.01.05 at 16h 08m 14s.xml">
+      <configuration name="cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="cnn_food_recognization_py - 2019.01.05 at 16h 09m 14s.xml">
+      <configuration name="cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="cnn_food_recognization_py - 2019.01.05 at 16h 10m 36s.xml">
+      <configuration name="cnn_food_recognization.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="835" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="835" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31520224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -382,6 +470,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -389,39 +478,105 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py</url>
+          <line>438</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py</url>
+          <line>427</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py</url>
+          <line>459</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/train.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/EmotionClassification.py">
+    <entry file="file://$PROJECT_DIR$/TransferLearning/mnist_transfer_cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#133#151#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="600">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/__init__.py">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-615047134/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56928">
+          <caret line="2372" column="4" lean-forward="false" selection-start-line="2372" selection-start-column="4" selection-end-line="2372" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/numpy/random/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-615047134/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57168">
+          <caret line="2386" column="4" lean-forward="false" selection-start-line="2386" selection-start-column="4" selection-end-line="2386" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/RNNTestPoetry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/TextCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="116" column="21" lean-forward="false" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/RNNTrainPoetry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-615047134/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170856">
+          <caret line="7132" column="4" lean-forward="false" selection-start-line="7132" selection-start-column="4" selection-end-line="7132" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/file.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Images/keras网络结构.jpeg">
@@ -429,191 +584,264 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/WordToVec.py">
+    <entry file="file://$PROJECT_DIR$/Python/OpenCV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="456">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_nosetest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/mnist_mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="51" column="32" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/reuters_mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1438">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Images/keras预处理功能.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/WordToVec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/NLP/EmotionClassification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="e#133#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/WordToVec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/test/1.py" />
-    <entry file="file://$PROJECT_DIR$/test/2.py" />
-    <entry file="file://$PROJECT_DIR$/test/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/test/test.py" />
-    <entry file="file://$PROJECT_DIR$/NLP/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Images/keras网络结构.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Images/keras预处理功能.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AiTrainDatas/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/Model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/MLImageClassification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        <state relative-caret-position="107">
+          <caret line="52" column="15" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="1015" column="17" lean-forward="false" selection-start-line="1015" selection-start-column="8" selection-end-line="1015" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/imdb_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AiTrainDatas/foods/2/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_6180.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_6537.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_1414.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_2745.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_3799.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_4563.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_4682.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_4730.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_4932.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_5260.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_5284.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_5307.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_5368.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_5846.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/preview/cat_0_6009.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="1965" column="0" lean-forward="false" selection-start-line="1965" selection-start-column="0" selection-end-line="1965" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/ImageDataGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AiTrainDatas/foods/train/西红柿炒鸡蛋/21.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AiTrainDatas/foods/train/西红柿炒鸡蛋/22.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AiTrainDatas/foods/train/西红柿炒鸡蛋/23.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5304">
+          <caret line="226" column="4" lean-forward="false" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2256">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/cnn_food_recognization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="43" column="62" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="62" />
           <folding>
-            <element signature="e#46#56#0" expanded="true" />
+            <element signature="e#257#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/DatasUtils.py">
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/keras/preprocessing/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-636">
-          <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        <state relative-caret-position="9696">
+          <caret line="412" column="8" lean-forward="false" selection-start-line="412" selection-start-column="8" selection-end-line="412" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/imutils/paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/lenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#192#201#0" expanded="true" />
+            <element signature="e#122#157#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Books/8.1-text-generation-with-lstm.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="5" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/plot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/EmotionClassification.py">
+    <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2208">
-          <caret line="92" column="31" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="31" />
-          <folding>
-            <element signature="e#133#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/sample/imdb_lstm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        <state relative-caret-position="2160">
+          <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/keras/engine/training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="824" column="8" lean-forward="false" selection-start-line="824" selection-start-column="8" selection-end-line="824" selection-end-column="8" />
+        <state relative-caret-position="30000">
+          <caret line="1277" column="8" lean-forward="false" selection-start-line="1277" selection-start-column="8" selection-end-line="1277" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/TextCNN.py">
+    <entry file="file://$PROJECT_DIR$/KerasTrain/keras_trafic_sign_reco/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="116" column="21" lean-forward="false" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="-382">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#122#172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/PlotTrainUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/sample/reuters_mlp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="35" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/ObjectDetection/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
