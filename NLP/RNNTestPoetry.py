@@ -15,7 +15,6 @@ from keras.layers import LSTM, Dropout, Dense, Activation, Embedding
 from train_poetry import TextConverter
 
 
-
 text = open('datas/poetry.txt', encoding = 'utf-8').read()
 converter = TextConverter(text, 3500, 'T.pkl')
 vocab_size = converter.vocab_size
